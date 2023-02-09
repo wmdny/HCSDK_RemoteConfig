@@ -1,0 +1,2 @@
+# HCSDK_RemoteConfig
+海康设备设置远程主机监听IP地址和端口
